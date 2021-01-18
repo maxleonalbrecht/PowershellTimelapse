@@ -2,7 +2,7 @@
 ### Features
 
 - Automatic download and extraction of ffpmeg
-- Just place your videos, which should be added to timeplase to */Source*  folder
+- Just place your videos, which should be added to timeplase to *./Source*  folder
 - There are being sorted by names
 
 You can change the following variables to edit speed of the timelapse
