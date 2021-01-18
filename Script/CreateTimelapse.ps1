@@ -63,7 +63,7 @@ function Delete-TempFiles()
 }
 function Get-Ffmpeg
 {
-    #$ffmpegLatestBuildUri = "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip"
+    $ffmpegLatestBuildUri = "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip"
     $tempPath = $baseDirectory + "/temp/"
     $saveFfmpegTempLoactionZip = $tempPath + "ffmpeg.zip"
 
